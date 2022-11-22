@@ -30,7 +30,7 @@ export const HeaderBar = () => {
 		>
 			<Group>
 				<Image
-					src='/thinkbig-logo.svg'
+					src='/learn-together.png'
 					className={classes.logo}
 					alt='logo placeholder'
 					height={60}

@@ -7,7 +7,8 @@ export default function DashPage({}: InferGetServerSidePropsType<
 	return (
 		<>
 			{' '}
-			<Text>This is where the dashboard goes.</Text>
+			{/* <Text>This is where the dashboard goes.</Text> */}
+			<iframe src="https://www.mentalup.co/blog/iq-tests-best-measuring-tools" title="description" width="100%" height="100%"></iframe>
 		</>
 	)
 }

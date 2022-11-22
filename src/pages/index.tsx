@@ -16,6 +16,7 @@ import stayOrganizedImg from 'public/landingpage-stay-organized.svg'
 import workTogetherImg from 'public/landingpage-work-together.svg'
 import stayUpToDateImg from 'public/landingpage-stay-up-to-date.svg'
 import heroImage from 'public/coding-924920_1920.jpg'
+// import learnTogetherLogo from 'public/learn-together.png'
 import Image from 'next/image'
 import { signIn, useSession } from 'next-auth/react'
 import { useRouter } from 'next/router'
@@ -62,7 +63,7 @@ function LandingPage() {
 			<AspectRatio ratio={16 / 9} className={classes.hero}>
 				<Image
 					src={heroImage}
-					alt='ThinkBig Logo'
+					alt='Learn Together Logo'
 					className={classes.bgWrap}
 					layout='fill'
 					objectFit='cover'
@@ -85,7 +86,7 @@ function LandingPage() {
 						className={classes.title}
 						align='left'
 					>
-						Welcome to the start of your journey as a{' '}
+						Learn Together with a {' '}
 						<Text
 							component='span'
 							inherit
@@ -96,7 +97,7 @@ function LandingPage() {
 								deg: 180,
 							}}
 						>
-							software engineer!
+							community!
 						</Text>
 					</Title>
 					<Button
@@ -144,7 +145,7 @@ function LandingPage() {
 					<>
 						<Title order={2}>Class Materials</Title>
 						<Text>
-							Easily find materials and assignments for all 100Dev classes in
+							Easily find materials and assignments for all the classes in
 							one place.
 						</Text>
 					</>
