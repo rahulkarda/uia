@@ -1,6 +1,6 @@
 <h1 align="center">
   <a href="https://github.com/100Devs-ADHD/think-big">
-    <img src="https://github.com/rahulkarda/uia/blob/master/public/learn-together.png?raw=true" alt="Learn Together" width="850" >
+    <img src="https://github.com/rahulkarda/uia/blob/master/public/learn-together.png?raw=true" alt="Learn Together" width="150" >
   </a>
 </h1>
 
