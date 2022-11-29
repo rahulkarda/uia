@@ -1,6 +1,6 @@
 <h1 align="center">
   <a href="https://github.com/100Devs-ADHD/think-big">
-    <img src="https://github.com/100Devs-ADHD/assets/blob/main/thinkbig/thinkbig-logo.svg" alt="thinkBig" width="850" >
+    <img src="" alt="Learn Together" width="850" >
   </a>
 </h1>
 
